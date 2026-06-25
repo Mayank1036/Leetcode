@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int countMajoritySubarrays(vector<int>& nums, int target) { // brute forxe with tc = O(n2) and sc = O(1);
+    int countMajoritySubarrays(vector<int>& nums, int target) { // brute force with tc = O(n2) and sc = O(1);
         int n = nums.size();
         int ans = 0;
 
