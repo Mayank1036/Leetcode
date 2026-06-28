@@ -1,0 +1,39 @@
+class Solution {
+public:
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        // using binary search becoz brute force will give TLE (run 2 loop sthen add value in ans and then calculate median)
+        int n1 = nums1.size();
+        int n2 = nums2.size();
+
+        if(n1 > n2){
+            return findMedianSortedArrays(nums2 , nums1); // Always perform binary search on the smaller array.
+        }
+        // else i am taking nums1 as arr with less elements;
+        int low = 0;
+        int high = n1;
+        int left = (n1 + n2 + 1)/2; // no of elements we require on left
+        int n = n1 + n2;
+
+        while(low <= high){
+            int mid1 = low + (high - low)/2; //here mid1 is not arrays index it is number of elemets, i take from nums1 into left parti
+            int mid2 = left - mid1; // remaining elemets to be taken for left 
+            int l1 = INT_MIN , l2 = INT_MIN;
+            int r1 = INT_MAX , r2 = INT_MAX;
+            if(mid1 < n1) r1 = nums1[mid1];
+            if(mid2 < n2) r2 = nums2[mid2];
+            if(mid1 - 1 >= 0) l1 = nums1[mid1 - 1];
+            if(mid2 - 1 >= 0) l2 = nums2[mid2 - 1];
+
+            if(l1 <= r2 && l2 <= r1){
+                if(n%2 == 1) return max(l1 , l2);    // for odd elements
+                else{
+                    return (double) (max(l1,l2) + min(r1,r2)) / 2.0 ;  // for even elements
+                }
+            }
+            else if(l1 > r2) high = mid1 - 1; // mid1 becoz we are working on mid1 as it has less elements
+            else low = mid1 + 1;
+        }
+        return 0;  
+        // TC = since i have apply BS on smaller array TC = O(log(min(n1,n2))) , sc = O(1);
+    }
+};
