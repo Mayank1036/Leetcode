@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     int atMost(vector<int> nums , int goal){
         if( goal < 0 ) return 0;
 
