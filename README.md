@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mayank1036/Leetcode/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayank1036/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Mayank1036/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank1036/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mayank1036/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Mayank1036/Leetcode/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/Mayank1036/Leetcode/tree/master/0292-nim-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank1036/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mayank1036/Leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayank1036/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mayank1036/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank1036/Leetcode/tree/master/1021-remove-outermost-parentheses) |
