@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mayank1036/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mayank1036/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank1036/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/Mayank1036/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank1036/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Mayank1036/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank1036/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Mayank1036/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
