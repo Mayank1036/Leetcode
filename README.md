@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mayank1036/Leetcode/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/Mayank1036/Leetcode/tree/master/0292-nim-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank1036/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2063-vowels-of-all-substrings](https://github.com/Mayank1036/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Mayank1036/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank1036/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Mayank1036/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2063-vowels-of-all-substrings](https://github.com/Mayank1036/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Mayank1036/Leetcode/tree/master/0796-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Mayank1036/Leetcode/tree/master/2063-vowels-of-all-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Mayank1036/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
