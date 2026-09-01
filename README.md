@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Mayank1036/Leetcode/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mayank1036/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0503-next-greater-element-ii](https://github.com/Mayank1036/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank1036/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mayank1036/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank1036/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Mayank1036/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Mayank1036/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank1036/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mayank1036/Leetcode/tree/master/0048-rotate-image) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Mayank1036/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
