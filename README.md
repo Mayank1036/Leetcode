@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mayank1036/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mayank1036/Leetcode/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/Mayank1036/Leetcode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/Mayank1036/Leetcode/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank1036/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2063-vowels-of-all-substrings](https://github.com/Mayank1036/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Counting
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mayank1036/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayank1036/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mayank1036/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/Mayank1036/Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank1036/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Mayank1036/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank1036/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -165,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Mayank1036/Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Mayank1036/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
