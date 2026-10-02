@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Mayank1036/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Mayank1036/Leetcode/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank1036/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mayank1036/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2063-vowels-of-all-substrings](https://github.com/Mayank1036/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Counting
 |  |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Mayank1036/Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Mayank1036/Leetcode/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mayank1036/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
