@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank1036/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1929-concatenation-of-array](https://github.com/Mayank1036/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mayank1036/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mayank1036/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank1036/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mayank1036/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2063-vowels-of-all-substrings](https://github.com/Mayank1036/Leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mayank1036/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
 | ------- |
