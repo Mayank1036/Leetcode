@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mayank1036/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Mayank1036/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Mayank1036/Leetcode/tree/master/0066-plus-one) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mayank1036/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0503-next-greater-element-ii](https://github.com/Mayank1036/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank1036/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mayank1036/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mayank1036/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mayank1036/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Mayank1036/Leetcode/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/Mayank1036/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Mayank1036/Leetcode/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank1036/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
